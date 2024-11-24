@@ -26,7 +26,6 @@ Mahasiswa Teknik Informatika
 
 ### Keterampilan  
 - Android Development (Java, Kotlin)  
-- Cloud Computing  
 - Firebase  
 - REST API  
 - Machine Learning dasar
